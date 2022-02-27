@@ -1,0 +1,20 @@
+{
+  "name": "wordle-game",
+  "version": "1.0.0",
+  "description": "javascript로 구현한 Wordle 게임(Feat. 코딩애플)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/star6973/wordle-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/star6973/wordle-game/issues"
+  },
+  "homepage": "https://github.com/star6973/wordle-game#readme",
+  "type": "module"
+}
